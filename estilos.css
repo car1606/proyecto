@@ -1,0 +1,72 @@
+body{
+font-family: Arial;
+margin:0;
+background:#0f172a;
+color:white;
+}
+
+header{
+background:#020617;
+text-align:center;
+padding:20px;
+}
+
+nav{
+background:#1e293b;
+padding:10px;
+text-align:center;
+}
+
+nav ul{
+list-style:none;
+padding:0;
+}
+
+nav ul li{
+display:inline;
+margin:10px;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+font-weight:bold;
+}
+
+section{
+background:#1e293b;
+margin:20px;
+padding:20px;
+border-radius:10px;
+}
+
+img{
+margin:10px;
+border-radius:10px;
+
+}
+
+table{
+background:rgb(108, 126, 6);
+color:rgb(122, 10, 10);
+margin-top:20px;
+}
+
+form input, textarea{
+width:250px;
+padding:5px;
+}
+
+button{
+padding:10px 20px;
+background:#2563eb;
+color:white;
+border:none;
+border-radius:5px;
+}
+
+footer{
+background:#020617;
+text-align:center;
+padding:15px;
+}
